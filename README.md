@@ -23,8 +23,7 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-4. 🔗 [Links](#links)
-
+4. 🔗 [Contact](#contact)
 
 
 ## 🚨 Tutorial
