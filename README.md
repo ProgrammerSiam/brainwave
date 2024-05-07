@@ -23,8 +23,8 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
-3. 📚 ##[What I learned from this project](#learn)
-3. 🚀 ##[Extra features added to this project](#add)
+3. 📚 [What I learned from this project](#learn)
+3. 🚀 [Extra features added to this project](#add)
 
 
 
