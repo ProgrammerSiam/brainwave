@@ -54,7 +54,7 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 and many more, including code architecture and reusability
 
 
-## <a name="learn">⚙📚 Learn</a>
+## <a name="learn">📚 Learn</a>
 
   **Header** :
 -  Create an active link for navigation
@@ -63,9 +63,13 @@ and many more, including code architecture and reusability
 -  Explore new npm packages like scroll-lock
 
 
- **Functionality** :
+**Functionality** :
 -  Build a hamburger menu that toggles visibility of navigation items
 -  Implement click functionality to navigate to different sections of the website
+
+
+
+
 
 -  **Hero Section** :
 
