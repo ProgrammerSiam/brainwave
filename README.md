@@ -97,13 +97,13 @@ and many more, including code architecture and reusability
 ## <a name="add">🚀 Extra features added</a>
 
 
-  **[/sign up]**:
--  Create an active link for navigation
--  Use conditional statements to control the display of elements
+  **Route[/sign up]**:
+-  
+-  
 
-  **[/sign in]**:
--  Utilize the react-just-parallax npm package to create a parallax effect
--  Explore features like curve and BackgroundCircles for visual enhancements  
+  **Route[/sign in]**:
+- 
+- 
 
 
 
