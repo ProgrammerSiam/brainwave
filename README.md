@@ -57,17 +57,14 @@ and many more, including code architecture and reusability
 ## <a name="learn">📚 Learn</a>
 
 
-<details>
-   <summary> 
-    **Header**:
-   </summary>
+  **Header**:
 -  Create an active link for navigation
 -  Use conditional statements to control the display of elements
 -  Implement dynamic classes to style elements based on conditions
 -  Explore new npm packages like scroll-lock
 -  Build a hamburger menu that toggles visibility of navigation items
 -  Implement click functionality to navigate to different sections of the website
-</details>
+
 
   **Hero Section**:
 -  Utilize the react-just-parallax npm package to create a parallax effect
