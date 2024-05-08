@@ -61,8 +61,6 @@ and many more, including code architecture and reusability
 -  Use conditional statements to control the display of elements
 -  Implement dynamic classes to style elements based on conditions
 -  Explore new npm packages like scroll-lock
-
-  **Functionality**:
 -  Build a hamburger menu that toggles visibility of navigation items
 -  Implement click functionality to navigate to different sections of the website
 
