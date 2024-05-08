@@ -98,12 +98,12 @@ and many more, including code architecture and reusability
 
 
   **Route[/sign up]**:
--  
--  
+-  loading..
+-  loading..
 
   **Route[/sign in]**:
-- 
-- 
+- loading..
+- loading..
 
 
 
