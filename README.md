@@ -56,39 +56,39 @@ and many more, including code architecture and reusability
 
 ## <a name="learn">📚 Learn</a>
 
-  **Header** :
+  **Header**:
 -  Create an active link for navigation
 -  Use conditional statements to control the display of elements
 -  Implement dynamic classes to style elements based on conditions
 -  Explore new npm packages like scroll-lock
 
-  **Functionality** :
+  **Functionality**:
 -  Build a hamburger menu that toggles visibility of navigation items
 -  Implement click functionality to navigate to different sections of the website
 
 
-  **Hero Section** :
+  **Hero Section**:
 -  Utilize the react-just-parallax npm package to create a parallax effect
 -  Explore features like curve and BackgroundCircles for visual enhancements  
 
-  **Benefits Section** :
+  **Benefits Section**:
 -  Create a component to maintain consistency in titles
 -  Learn design concepts to improve the visual appeal of your project
 
-  **Collaboration Section** :
+  **Collaboration Section**:
 -  Design circular images
 -  Apply design principles to enhance the layout
 
-  **Services Section** :
+  **Services Section**:
 -  Implement a Bento Box layout for effective content organization
 
-  **Pricing Section** :
+  **Pricing Section**:
 -  Design a visually appealing pricing table with a left/right orientation  
 
-  **Roadmap Section** :
+  **Roadmap Section**:
 -  Utilize advanced grid layouts for a structured design
 
-  **Footer Section** :
+  **Footer Section**:
 -  Design a simple footer layout
 
 
