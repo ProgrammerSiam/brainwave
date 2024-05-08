@@ -56,13 +56,25 @@ and many more, including code architecture and reusability
 
 ## <a name="learn">⚙📚 Learn</a>
 
--  **Header** :
+  **Header** :
 
-- 
+-  **Functionality** :
 
-- 
+-  **Hero Section** :
 
-- 
+-  **Benefits Section** :
+
+-  **Collaboration Section** :
+
+-  **Services Section** :
+
+-  **Pricing Section** :
+
+-  **Roadmap Section** :
+
+-   **Footer Section** :
+
+
 
 
 
