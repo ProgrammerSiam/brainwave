@@ -57,6 +57,10 @@ and many more, including code architecture and reusability
 ## <a name="learn">⚙📚 Learn</a>
 
   **Header** :
+-  Create an active link for navigation
+-  Use conditional statements to control the display of elements
+-  Implement dynamic classes to style elements based on conditions
+-  Explore new npm packages like scroll-lock
 
 -  **Functionality** :
 
